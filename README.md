@@ -1,6 +1,8 @@
 # Playing-Cards
 Beetroot Academy - Lesson 21
 
+Live Page URL: https://mirinkakotze.github.io/Playing-Cards/
+
 Create a row of playing cards.
 
 When the user opens the page they should only see the backside of the cards,
